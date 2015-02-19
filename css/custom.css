@@ -1,1 +1,7 @@
 /*custom styles*/
+
+.btn-primary:hover {
+color: black;
+background-color: #fff;
+border-color: red;
+}
